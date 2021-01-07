@@ -58,6 +58,8 @@ public class Produto implements Serializable{
 		this.nome = nome;
 		this.preco = preco;
 	}
+	
+	
 
 	public Integer getId() {
 		return id;
